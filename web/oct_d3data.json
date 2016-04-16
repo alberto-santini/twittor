@@ -1,0 +1,5621 @@
+{
+  "nodes": [
+    {
+      "name": "Jasmina_Lazic",
+      "importance": 4,
+      "neighbours": [
+        "mluebbecke",
+        "spokutta",
+        "natebrix",
+        "parubin"
+      ],
+      "tags": [
+        "math",
+        "orms",
+        "SQL",
+        "Optimization",
+        "analytics",
+        "orblog"
+      ]
+    },
+    {
+      "name": "mluebbecke",
+      "importance": 35,
+      "neighbours": [
+        "Jasmina_Lazic",
+        "MathDaily",
+        "shunji_umetani",
+        "MFischetti",
+        "spokutta",
+        "INFORMS",
+        "Syngenta",
+        "RWTH_OR",
+        "berlinmath",
+        "RWTH",
+        "Gu3nol",
+        "miketrick",
+        "agustinishmael",
+        "LPResources",
+        "hbersam",
+        "INFORMS2015",
+        "ILjubic",
+        "raswalgul",
+        "semi_twt",
+        "or_exchange",
+        "OrtecConsulting",
+        "mon_decastro",
+        "irshaadv",
+        "GeoOptimization",
+        "maleitner",
+        "mmonaci74",
+        "l_mencarelli",
+        "tunnuz_",
+        "MISTAconf",
+        "SINTEF",
+        "CORS_President",
+        "natebrix",
+        "AIMMS",
+        "famo2spaghi",
+        "jusoneoftoomany"
+      ],
+      "tags": [
+        "math",
+        "orms",
+        "bigdata",
+        "Analytics",
+        "analytics",
+        "Aachen",
+        "orblog",
+        "transportation",
+        "statistics",
+        "slides",
+        "scheduling",
+        "ORMS"
+      ]
+    },
+    {
+      "name": "spokutta",
+      "importance": 5,
+      "neighbours": [
+        "Jasmina_Lazic",
+        "MathDaily",
+        "shunji_umetani",
+        "MFischetti",
+        "mluebbecke"
+      ],
+      "tags": [
+        "math",
+        "orms"
+      ]
+    },
+    {
+      "name": "MathDaily",
+      "importance": 3,
+      "neighbours": [
+        "spokutta",
+        "mluebbecke",
+        "SINTEF"
+      ],
+      "tags": [
+        "math",
+        "orms"
+      ]
+    },
+    {
+      "name": "shunji_umetani",
+      "importance": 2,
+      "neighbours": [
+        "mluebbecke",
+        "spokutta"
+      ],
+      "tags": [
+        "math",
+        "orms"
+      ]
+    },
+    {
+      "name": "MFischetti",
+      "importance": 6,
+      "neighbours": [
+        "mluebbecke",
+        "spokutta",
+        "mmonaci74",
+        "maleitner",
+        "aolmedon",
+        "ILjubic"
+      ],
+      "tags": [
+        "math",
+        "orms",
+        "bigdata"
+      ]
+    },
+    {
+      "name": "BestSQL",
+      "importance": 1,
+      "neighbours": [
+        "natebrix"
+      ],
+      "tags": [
+        "SQL",
+        "orms"
+      ]
+    },
+    {
+      "name": "natebrix",
+      "importance": 7,
+      "neighbours": [
+        "BestSQL",
+        "sburer",
+        "oranalytics",
+        "Jasmina_Lazic",
+        "kunjee",
+        "jbante",
+        "mluebbecke"
+      ],
+      "tags": [
+        "SQL",
+        "orms",
+        "Optimization",
+        "analytics"
+      ]
+    },
+    {
+      "name": "sburer",
+      "importance": 3,
+      "neighbours": [
+        "natebrix",
+        "miketrick",
+        "GeoOptimization"
+      ],
+      "tags": [
+        "SQL",
+        "orms",
+        "Optimization",
+        "analytics"
+      ]
+    },
+    {
+      "name": "oranalytics",
+      "importance": 1,
+      "neighbours": [
+        "natebrix"
+      ],
+      "tags": [
+        "SQL",
+        "orms"
+      ]
+    },
+    {
+      "name": "KayseMaass",
+      "importance": 5,
+      "neighbours": [
+        "fmsc_org",
+        "BethelU",
+        "INFORMS_at_UM",
+        "JFPuget",
+        "UofMCHEPS"
+      ],
+      "tags": [
+        "orms",
+        "Throwback",
+        "INFORMS",
+        "UnitedAirlines",
+        "chepssymposium",
+        "healthcare"
+      ]
+    },
+    {
+      "name": "fmsc_org",
+      "importance": 1,
+      "neighbours": [
+        "KayseMaass"
+      ],
+      "tags": [
+        "orms",
+        "Throwback"
+      ]
+    },
+    {
+      "name": "BethelU",
+      "importance": 1,
+      "neighbours": [
+        "KayseMaass"
+      ],
+      "tags": [
+        "orms",
+        "Throwback"
+      ]
+    },
+    {
+      "name": "INFORMS",
+      "importance": 14,
+      "neighbours": [
+        "mluebbecke",
+        "Syngenta",
+        "miketrick",
+        "coin_or",
+        "INFORMS2015",
+        "EUROonline_News",
+        "Leong_je",
+        "Susara777",
+        "jusoneoftoomany",
+        "ICHIO_CL",
+        "Supernetworks",
+        "l_mencarelli",
+        "lds123",
+        "INFORMS_at_UM"
+      ],
+      "tags": [
+        "Analytics",
+        "orms",
+        "analytics",
+        "bestofthebest",
+        "informs2015",
+        "hr",
+        "INFORMS"
+      ]
+    },
+    {
+      "name": "Syngenta",
+      "importance": 2,
+      "neighbours": [
+        "mluebbecke",
+        "INFORMS"
+      ],
+      "tags": [
+        "Analytics",
+        "orms"
+      ]
+    },
+    {
+      "name": "Mavrogiorgos",
+      "importance": 3,
+      "neighbours": [
+        "agustinishmael",
+        "LPResources",
+        "thyunes"
+      ],
+      "tags": [
+        "orms",
+        "orjobs"
+      ]
+    },
+    {
+      "name": "agustinishmael",
+      "importance": 8,
+      "neighbours": [
+        "Mavrogiorgos",
+        "EUROonline_News",
+        "jjmirandab",
+        "sof_dem",
+        "mluebbecke",
+        "LPResources",
+        "JFPuget",
+        "parubin"
+      ],
+      "tags": [
+        "orms",
+        "analytics",
+        "BigData",
+        "DataScience",
+        "orblog"
+      ]
+    },
+    {
+      "name": "LPResources",
+      "importance": 5,
+      "neighbours": [
+        "Mavrogiorgos",
+        "EUROonline_News",
+        "sof_dem",
+        "mluebbecke",
+        "agustinishmael"
+      ],
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "name": "miketrick",
+      "importance": 17,
+      "neighbours": [
+        "INFORMS",
+        "EUROonline_News",
+        "mluebbecke",
+        "INFORMS2015",
+        "or_exchange",
+        "LangeGde",
+        "coin_or",
+        "thyunes",
+        "l_mencarelli",
+        "jusoneoftoomany",
+        "tirjayanto",
+        "Supernetworks",
+        "JFPuget",
+        "sburer",
+        "GeoOptimization",
+        "CORS_President",
+        "SC_Action_Blog"
+      ],
+      "tags": [
+        "orms",
+        "analytics",
+        "bestofthebest",
+        "orblog",
+        "fanduel",
+        "draftkings",
+        "orjobs",
+        "ORMS",
+        "CORS2016"
+      ]
+    },
+    {
+      "name": "coin_or",
+      "importance": 5,
+      "neighbours": [
+        "INFORMS",
+        "EUROonline_News",
+        "or_exchange",
+        "LangeGde",
+        "miketrick"
+      ],
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "name": "INFORMS2015",
+      "importance": 7,
+      "neighbours": [
+        "INFORMS",
+        "EUROonline_News",
+        "miketrick",
+        "l_mencarelli",
+        "mluebbecke",
+        "mlesz1",
+        "CORS_President"
+      ],
+      "tags": [
+        "informs2015",
+        "orms",
+        "analytics",
+        "hr"
+      ]
+    },
+    {
+      "name": "EUROonline_News",
+      "importance": 20,
+      "neighbours": [
+        "miketrick",
+        "coin_or",
+        "INFORMS2015",
+        "agustinishmael",
+        "LPResources",
+        "INFORMS",
+        "FrancesSneddon",
+        "smouthuy",
+        "or2016de",
+        "jusoneoftoomany",
+        "dirkvandenpoel",
+        "AIMMS",
+        "GeoOptimization",
+        "constraints_cp",
+        "tommonks1",
+        "TheORSociety",
+        "CORS_President",
+        "FMcLeister",
+        "ProBonoEcon",
+        "ReachSkills"
+      ],
+      "tags": [
+        "orms",
+        "or2016de",
+        "proud",
+        "STEM",
+        "DataScience",
+        "INFORMS2015",
+        "ORMS",
+        "CPAIOR2016",
+        "Constraints",
+        "copr",
+        "simulation",
+        "orsw16",
+        "thisIsOR",
+        "ORSW16",
+        "ThisIsOR",
+        "volunteer",
+        "CORS2016",
+        "ProBonoOR",
+        "ORblog",
+        "ThisisOR"
+      ]
+    },
+    {
+      "name": "FrancesSneddon",
+      "importance": 1,
+      "neighbours": [
+        "EUROonline_News"
+      ],
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "name": "smouthuy",
+      "importance": 1,
+      "neighbours": [
+        "EUROonline_News"
+      ],
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "name": "or2016de",
+      "importance": 1,
+      "neighbours": [
+        "EUROonline_News"
+      ],
+      "tags": [
+        "or2016de",
+        "orms"
+      ]
+    },
+    {
+      "name": "erchiang",
+      "importance": 2,
+      "neighbours": [
+        "s_neyshabouri",
+        "ryanjoneil"
+      ],
+      "tags": [
+        "ORMS",
+        "orms"
+      ]
+    },
+    {
+      "name": "s_neyshabouri",
+      "importance": 7,
+      "neighbours": [
+        "erchiang",
+        "JFPuget",
+        "thyunes",
+        "ryanjoneil",
+        "leejacobson_",
+        "lauramclay",
+        "inform_software"
+      ],
+      "tags": [
+        "ORMS",
+        "orms",
+        "analytics",
+        "python",
+        "ThisIsOR"
+      ]
+    },
+    {
+      "name": "AIMMS",
+      "importance": 5,
+      "neighbours": [
+        "OrtecConsulting",
+        "denisborges26",
+        "EUROonline_News",
+        "LangeGde",
+        "mluebbecke"
+      ],
+      "tags": [
+        "ORMS",
+        "supplychain",
+        "INFORMS2015",
+        "SupplyChain",
+        "webinar",
+        "orms",
+        "AIMMS",
+        "Workshops",
+        "analytics",
+        "bigdata"
+      ]
+    },
+    {
+      "name": "OrtecConsulting",
+      "importance": 5,
+      "neighbours": [
+        "AIMMS",
+        "mluebbecke",
+        "BigDataTweetBot",
+        "famo2spaghi",
+        "jusoneoftoomany"
+      ],
+      "tags": [
+        "ORMS",
+        "math",
+        "orms",
+        "statistics",
+        "orblog",
+        "supplychain",
+        "analytics",
+        "bigdata"
+      ]
+    },
+    {
+      "name": "RWTH_OR",
+      "importance": 3,
+      "neighbours": [
+        "mluebbecke",
+        "berlinmath",
+        "RWTH"
+      ],
+      "tags": [
+        "orms",
+        "Aachen",
+        "math"
+      ]
+    },
+    {
+      "name": "berlinmath",
+      "importance": 2,
+      "neighbours": [
+        "mluebbecke",
+        "RWTH_OR"
+      ],
+      "tags": [
+        "orms",
+        "Aachen",
+        "math"
+      ]
+    },
+    {
+      "name": "RWTH",
+      "importance": 2,
+      "neighbours": [
+        "mluebbecke",
+        "RWTH_OR"
+      ],
+      "tags": [
+        "orms",
+        "Aachen",
+        "math"
+      ]
+    },
+    {
+      "name": "MatterOfBiz",
+      "importance": 2,
+      "neighbours": [
+        "TheOpsRoom",
+        "thyunes"
+      ],
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "name": "TheOpsRoom",
+      "importance": 1,
+      "neighbours": [
+        "MatterOfBiz"
+      ],
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "name": "pskopek",
+      "importance": 2,
+      "neighbours": [
+        "optaplanner",
+        "oskopek"
+      ],
+      "tags": [
+        "OptaPlanner",
+        "orms"
+      ]
+    },
+    {
+      "name": "optaplanner",
+      "importance": 3,
+      "neighbours": [
+        "pskopek",
+        "GeoffreyDeSmet",
+        "oskopek"
+      ],
+      "tags": [
+        "OptaPlanner",
+        "orms"
+      ]
+    },
+    {
+      "name": "oskopek",
+      "importance": 3,
+      "neighbours": [
+        "pskopek",
+        "GeoffreyDeSmet",
+        "optaplanner"
+      ],
+      "tags": [
+        "OptaPlanner",
+        "orms"
+      ]
+    },
+    {
+      "name": "JFPuget",
+      "importance": 27,
+      "neighbours": [
+        "AlexFleischer1",
+        "MeetupFR",
+        "s_neyshabouri",
+        "jmwangondi",
+        "kennekai",
+        "KayseMaass",
+        "ryanjoneil",
+        "KelliJoKuntzman",
+        "VVagias",
+        "DiegoKuonen",
+        "DaveRubal",
+        "dgimmig",
+        "miketrick",
+        "GeoOptimization",
+        "vdiaz3",
+        "gdigugli",
+        "tirjayanto",
+        "leandro_cc",
+        "KDCOST",
+        "ManonRaap",
+        "PVanHentenryck",
+        "EhsanKhoda",
+        "DataVisualizati",
+        "IBMFranceLab",
+        "LM_Rousseau",
+        "agustinishmael",
+        "parubin"
+      ],
+      "tags": [
+        "IBM",
+        "Paris",
+        "DOCLOUD",
+        "CPLEX",
+        "ORMS",
+        "orms",
+        "analytics",
+        "python",
+        "BigData",
+        "DataScience",
+        "UnitedAirlines",
+        "orblog"
+      ]
+    },
+    {
+      "name": "AlexFleischer1",
+      "importance": 2,
+      "neighbours": [
+        "JFPuget",
+        "MeetupFR"
+      ],
+      "tags": [
+        "IBM",
+        "Paris",
+        "DOCLOUD",
+        "CPLEX",
+        "ORMS"
+      ]
+    },
+    {
+      "name": "MeetupFR",
+      "importance": 2,
+      "neighbours": [
+        "JFPuget",
+        "AlexFleischer1"
+      ],
+      "tags": [
+        "IBM",
+        "Paris",
+        "DOCLOUD",
+        "CPLEX",
+        "ORMS"
+      ]
+    },
+    {
+      "name": "GeoffreyDeSmet",
+      "importance": 2,
+      "neighbours": [
+        "optaplanner",
+        "oskopek"
+      ],
+      "tags": [
+        "OptaPlanner",
+        "orms"
+      ]
+    },
+    {
+      "name": "danthoma8",
+      "importance": 8,
+      "neighbours": [
+        "MMA_CRM",
+        "_3s_",
+        "tijd",
+        "pieter_haeck",
+        "UGentDA",
+        "UGentFEB",
+        "ugent",
+        "bigdata_ugent"
+      ],
+      "tags": [
+        "DataScience",
+        "orms",
+        "BigData"
+      ]
+    },
+    {
+      "name": "MMA_CRM",
+      "importance": 1,
+      "neighbours": [
+        "danthoma8"
+      ],
+      "tags": [
+        "DataScience",
+        "orms",
+        "BigData"
+      ]
+    },
+    {
+      "name": "_3s_",
+      "importance": 1,
+      "neighbours": [
+        "danthoma8"
+      ],
+      "tags": [
+        "DataScience",
+        "orms",
+        "BigData"
+      ]
+    },
+    {
+      "name": "tijd",
+      "importance": 1,
+      "neighbours": [
+        "danthoma8"
+      ],
+      "tags": [
+        "DataScience",
+        "orms",
+        "BigData"
+      ]
+    },
+    {
+      "name": "pieter_haeck",
+      "importance": 1,
+      "neighbours": [
+        "danthoma8"
+      ],
+      "tags": [
+        "DataScience",
+        "orms",
+        "BigData"
+      ]
+    },
+    {
+      "name": "UGentDA",
+      "importance": 1,
+      "neighbours": [
+        "danthoma8"
+      ],
+      "tags": [
+        "DataScience",
+        "orms",
+        "BigData"
+      ]
+    },
+    {
+      "name": "UGentFEB",
+      "importance": 1,
+      "neighbours": [
+        "danthoma8"
+      ],
+      "tags": [
+        "DataScience",
+        "orms",
+        "BigData"
+      ]
+    },
+    {
+      "name": "ugent",
+      "importance": 1,
+      "neighbours": [
+        "danthoma8"
+      ],
+      "tags": [
+        "DataScience",
+        "orms",
+        "BigData"
+      ]
+    },
+    {
+      "name": "bigdata_ugent",
+      "importance": 1,
+      "neighbours": [
+        "danthoma8"
+      ],
+      "tags": [
+        "DataScience",
+        "orms",
+        "BigData"
+      ]
+    },
+    {
+      "name": "Gu3nol",
+      "importance": 2,
+      "neighbours": [
+        "mluebbecke",
+        "felixoneberlin"
+      ],
+      "tags": [
+        "orms",
+        "math",
+        "orblog"
+      ]
+    },
+    {
+      "name": "felixoneberlin",
+      "importance": 3,
+      "neighbours": [
+        "Gu3nol",
+        "hbersam",
+        "mon_decastro"
+      ],
+      "tags": [
+        "orms",
+        "math",
+        "orblog"
+      ]
+    },
+    {
+      "name": "HamedR_HR",
+      "importance": 3,
+      "neighbours": [
+        "StanfordEng",
+        "Stanford",
+        "OhioState"
+      ],
+      "tags": [
+        "orms",
+        "math"
+      ]
+    },
+    {
+      "name": "StanfordEng",
+      "importance": 1,
+      "neighbours": [
+        "HamedR_HR"
+      ],
+      "tags": [
+        "orms",
+        "math"
+      ]
+    },
+    {
+      "name": "Stanford",
+      "importance": 1,
+      "neighbours": [
+        "HamedR_HR"
+      ],
+      "tags": [
+        "orms",
+        "math"
+      ]
+    },
+    {
+      "name": "OhioState",
+      "importance": 1,
+      "neighbours": [
+        "HamedR_HR"
+      ],
+      "tags": [
+        "orms",
+        "math"
+      ]
+    },
+    {
+      "name": "nodet",
+      "importance": 1,
+      "neighbours": [
+        "Susara777"
+      ],
+      "tags": [
+        "ORMS"
+      ]
+    },
+    {
+      "name": "Susara777",
+      "importance": 4,
+      "neighbours": [
+        "nodet",
+        "ibmoptimization",
+        "MehdiGolari",
+        "INFORMS"
+      ],
+      "tags": [
+        "ORMS",
+        "IBMoptimization",
+        "orms",
+        "analytics",
+        "bestofthebest"
+      ]
+    },
+    {
+      "name": "mloxton",
+      "importance": 1,
+      "neighbours": [
+        "wareFLO"
+      ],
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "name": "wareFLO",
+      "importance": 1,
+      "neighbours": [
+        "mloxton"
+      ],
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "name": "ibmoptimization",
+      "importance": 1,
+      "neighbours": [
+        "Susara777"
+      ],
+      "tags": [
+        "ORMS",
+        "IBMoptimization"
+      ]
+    },
+    {
+      "name": "jjmirandab",
+      "importance": 2,
+      "neighbours": [
+        "agustinishmael",
+        "parubin"
+      ],
+      "tags": [
+        "orms",
+        "orblog"
+      ]
+    },
+    {
+      "name": "MehdiGolari",
+      "importance": 1,
+      "neighbours": [
+        "Susara777"
+      ],
+      "tags": [
+        "ORMS"
+      ]
+    },
+    {
+      "name": "tunnuz_",
+      "importance": 4,
+      "neighbours": [
+        "constraints_cp",
+        "jnmonette",
+        "mluebbecke",
+        "SINTEF"
+      ],
+      "tags": [
+        "copr",
+        "orms",
+        "math"
+      ]
+    },
+    {
+      "name": "constraints_cp",
+      "importance": 6,
+      "neighbours": [
+        "tunnuz_",
+        "serdar_kadioglu",
+        "famo2spaghi",
+        "jnmonette",
+        "EUROonline_News",
+        "richardadenman"
+      ],
+      "tags": [
+        "copr",
+        "orms",
+        "CPAIOR2016",
+        "Constraints"
+      ]
+    },
+    {
+      "name": "jnmonette",
+      "importance": 4,
+      "neighbours": [
+        "tunnuz_",
+        "serdar_kadioglu",
+        "famo2spaghi",
+        "constraints_cp"
+      ],
+      "tags": [
+        "copr",
+        "orms"
+      ]
+    },
+    {
+      "name": "serdar_kadioglu",
+      "importance": 2,
+      "neighbours": [
+        "constraints_cp",
+        "jnmonette"
+      ],
+      "tags": [
+        "copr",
+        "orms"
+      ]
+    },
+    {
+      "name": "Ninisiw",
+      "importance": 1,
+      "neighbours": [
+        "raswalgul"
+      ],
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "name": "raswalgul",
+      "importance": 2,
+      "neighbours": [
+        "Ninisiw",
+        "mluebbecke"
+      ],
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "name": "famo2spaghi",
+      "importance": 5,
+      "neighbours": [
+        "constraints_cp",
+        "jnmonette",
+        "sof_dem",
+        "mluebbecke",
+        "OrtecConsulting"
+      ],
+      "tags": [
+        "copr",
+        "orms",
+        "ORMS",
+        "statistics",
+        "orblog"
+      ]
+    },
+    {
+      "name": "denisborges26",
+      "importance": 1,
+      "neighbours": [
+        "AIMMS"
+      ],
+      "tags": [
+        "ORMS",
+        "supplychain",
+        "INFORMS2015"
+      ]
+    },
+    {
+      "name": "sof_dem",
+      "importance": 3,
+      "neighbours": [
+        "agustinishmael",
+        "LPResources",
+        "famo2spaghi"
+      ],
+      "tags": [
+        "orms",
+        "ORMS"
+      ]
+    },
+    {
+      "name": "lauramclay",
+      "importance": 7,
+      "neighbours": [
+        "thyunes",
+        "baabbaash",
+        "s_neyshabouri",
+        "mcvelezg",
+        "inform_software",
+        "FMcLeister",
+        "NASciences"
+      ],
+      "tags": [
+        "orms",
+        "ORMS"
+      ]
+    },
+    {
+      "name": "thyunes",
+      "importance": 11,
+      "neighbours": [
+        "lauramclay",
+        "MatterOfBiz",
+        "jusoneoftoomany",
+        "s_neyshabouri",
+        "baabbaash",
+        "miketrick",
+        "CT_Analytics",
+        "ddoonie",
+        "or_exchange",
+        "Mavrogiorgos",
+        "apricoco"
+      ],
+      "tags": [
+        "orms",
+        "ORMS",
+        "orblog",
+        "fanduel",
+        "draftkings",
+        "ThisIsOR",
+        "orjobs"
+      ]
+    },
+    {
+      "name": "hbersam",
+      "importance": 2,
+      "neighbours": [
+        "mluebbecke",
+        "felixoneberlin"
+      ],
+      "tags": [
+        "orms",
+        "math",
+        "orblog"
+      ]
+    },
+    {
+      "name": "INFORMS_at_UM",
+      "importance": 2,
+      "neighbours": [
+        "KayseMaass",
+        "INFORMS"
+      ],
+      "tags": [
+        "orms",
+        "INFORMS"
+      ]
+    },
+    {
+      "name": "l_mencarelli",
+      "importance": 5,
+      "neighbours": [
+        "INFORMS2015",
+        "miketrick",
+        "INFORMS",
+        "mluebbecke",
+        "SINTEF"
+      ],
+      "tags": [
+        "orms",
+        "math"
+      ]
+    },
+    {
+      "name": "or_exchange",
+      "importance": 4,
+      "neighbours": [
+        "miketrick",
+        "coin_or",
+        "mluebbecke",
+        "thyunes"
+      ],
+      "tags": [
+        "orms",
+        "transportation",
+        "orjobs"
+      ]
+    },
+    {
+      "name": "Ivriec_OpusIT",
+      "importance": 2,
+      "neighbours": [
+        "OAUG1",
+        "UKOUG"
+      ],
+      "tags": [
+        "oracle",
+        "ORMS",
+        "ORPM",
+        "RESA",
+        "OracleEBS"
+      ]
+    },
+    {
+      "name": "OAUG1",
+      "importance": 1,
+      "neighbours": [
+        "Ivriec_OpusIT"
+      ],
+      "tags": [
+        "oracle",
+        "ORMS",
+        "ORPM",
+        "RESA",
+        "OracleEBS"
+      ]
+    },
+    {
+      "name": "UKOUG",
+      "importance": 1,
+      "neighbours": [
+        "Ivriec_OpusIT"
+      ],
+      "tags": [
+        "oracle",
+        "ORMS",
+        "ORPM",
+        "RESA",
+        "OracleEBS"
+      ]
+    },
+    {
+      "name": "Leong_je",
+      "importance": 1,
+      "neighbours": [
+        "INFORMS"
+      ],
+      "tags": [
+        "orms",
+        "analytics",
+        "bestofthebest"
+      ]
+    },
+    {
+      "name": "jmwangondi",
+      "importance": 1,
+      "neighbours": [
+        "JFPuget"
+      ],
+      "tags": [
+        "analytics",
+        "BigData",
+        "DataScience",
+        "orms"
+      ]
+    },
+    {
+      "name": "TheORSociety",
+      "importance": 7,
+      "neighbours": [
+        "tommonks1",
+        "EUROonline_News",
+        "ruth_kaufman",
+        "FMcLeister",
+        "johnwhittaker",
+        "TheTonyO",
+        "faststreamuk"
+      ],
+      "tags": [
+        "simulation",
+        "orsw16",
+        "orms",
+        "thisIsOR",
+        "ORSW16",
+        "ThisIsOR",
+        "volunteer",
+        "ThisisOR",
+        "ORMS",
+        "thisisOR",
+        "GORS",
+        "ProBonoOR",
+        "ORblog"
+      ]
+    },
+    {
+      "name": "tommonks1",
+      "importance": 9,
+      "neighbours": [
+        "TheORSociety",
+        "EUROonline_News",
+        "IzabelaKomenda",
+        "tjwatkins73",
+        "JulieVile1",
+        "SIMUL8Health",
+        "BrianMckeon",
+        "drvinceknight",
+        "ruth_kaufman"
+      ],
+      "tags": [
+        "simulation",
+        "orsw16",
+        "orms",
+        "thisIsOR",
+        "ORSW16",
+        "ThisIsOR",
+        "ORMS",
+        "ThisisOR"
+      ]
+    },
+    {
+      "name": "ILjubic",
+      "importance": 5,
+      "neighbours": [
+        "mluebbecke",
+        "mmonaci74",
+        "maleitner",
+        "aolmedon",
+        "MFischetti"
+      ],
+      "tags": [
+        "math",
+        "orms",
+        "bigdata"
+      ]
+    },
+    {
+      "name": "kennekai",
+      "importance": 1,
+      "neighbours": [
+        "JFPuget"
+      ],
+      "tags": [
+        "analytics",
+        "BigData",
+        "DataScience",
+        "orms"
+      ]
+    },
+    {
+      "name": "mlesz1",
+      "importance": 1,
+      "neighbours": [
+        "INFORMS2015"
+      ],
+      "tags": [
+        "informs2015",
+        "orms",
+        "analytics"
+      ]
+    },
+    {
+      "name": "LangeGde",
+      "importance": 3,
+      "neighbours": [
+        "miketrick",
+        "coin_or",
+        "AIMMS"
+      ],
+      "tags": [
+        "orms",
+        "SupplyChain",
+        "webinar",
+        "ORMS",
+        "AIMMS",
+        "Workshops",
+        "analytics",
+        "INFORMS2015"
+      ]
+    },
+    {
+      "name": "semi_twt",
+      "importance": 1,
+      "neighbours": [
+        "mluebbecke"
+      ],
+      "tags": [
+        "transportation",
+        "orms"
+      ]
+    },
+    {
+      "name": "UofMCHEPS",
+      "importance": 1,
+      "neighbours": [
+        "KayseMaass"
+      ],
+      "tags": [
+        "chepssymposium",
+        "healthcare",
+        "orms"
+      ]
+    },
+    {
+      "name": "jusoneoftoomany",
+      "importance": 8,
+      "neighbours": [
+        "thyunes",
+        "INFORMS",
+        "miketrick",
+        "GeoOptimization",
+        "dirkvandenpoel",
+        "EUROonline_News",
+        "mluebbecke",
+        "OrtecConsulting"
+      ],
+      "tags": [
+        "orms",
+        "orblog",
+        "fanduel",
+        "draftkings",
+        "proud",
+        "STEM",
+        "DataScience",
+        "statistics"
+      ]
+    },
+    {
+      "name": "baabbaash",
+      "importance": 2,
+      "neighbours": [
+        "lauramclay",
+        "thyunes"
+      ],
+      "tags": [
+        "ORMS"
+      ]
+    },
+    {
+      "name": "CT_Analytics",
+      "importance": 1,
+      "neighbours": [
+        "thyunes"
+      ],
+      "tags": [
+        "orms",
+        "orblog",
+        "fanduel",
+        "draftkings"
+      ]
+    },
+    {
+      "name": "ryanjoneil",
+      "importance": 4,
+      "neighbours": [
+        "erchiang",
+        "leotac",
+        "JFPuget",
+        "s_neyshabouri"
+      ],
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "name": "Supernetworks",
+      "importance": 9,
+      "neighbours": [
+        "IsenbergUMass",
+        "INFORMS",
+        "uoebusiness",
+        "miketrick",
+        "GeoOptimization",
+        "ResearchNext",
+        "AFAPRCHAPTER",
+        "curtisrc",
+        "UMassLowell"
+      ],
+      "tags": [
+        "Happyday",
+        "supplychain",
+        "supplier",
+        "orms",
+        "Scotland",
+        "orblog",
+        "gametheory",
+        "cybersecurity",
+        "AFAcyber15",
+        "AFACyber15"
+      ]
+    },
+    {
+      "name": "IsenbergUMass",
+      "importance": 4,
+      "neighbours": [
+        "Supernetworks",
+        "ResearchNext",
+        "AFAPRCHAPTER",
+        "curtisrc"
+      ],
+      "tags": [
+        "Happyday",
+        "supplychain",
+        "supplier",
+        "orms",
+        "Scotland",
+        "orblog",
+        "gametheory",
+        "cybersecurity",
+        "AFAcyber15",
+        "AFACyber15"
+      ]
+    },
+    {
+      "name": "leotac",
+      "importance": 1,
+      "neighbours": [
+        "ryanjoneil"
+      ],
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "name": "KelliJoKuntzman",
+      "importance": 2,
+      "neighbours": [
+        "DiegoKuonen",
+        "JFPuget"
+      ],
+      "tags": [
+        "analytics",
+        "DataScience",
+        "BigData",
+        "orms"
+      ]
+    },
+    {
+      "name": "DiegoKuonen",
+      "importance": 5,
+      "neighbours": [
+        "KelliJoKuntzman",
+        "VVagias",
+        "JFPuget",
+        "DaveRubal",
+        "DataVisualizati"
+      ],
+      "tags": [
+        "analytics",
+        "DataScience",
+        "BigData",
+        "orms"
+      ]
+    },
+    {
+      "name": "VVagias",
+      "importance": 2,
+      "neighbours": [
+        "DiegoKuonen",
+        "JFPuget"
+      ],
+      "tags": [
+        "analytics",
+        "DataScience",
+        "BigData",
+        "orms"
+      ]
+    },
+    {
+      "name": "ICHIO_CL",
+      "importance": 1,
+      "neighbours": [
+        "INFORMS"
+      ],
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "name": "lds123",
+      "importance": 1,
+      "neighbours": [
+        "INFORMS"
+      ],
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "name": "GeoOptimization",
+      "importance": 9,
+      "neighbours": [
+        "jusoneoftoomany",
+        "EUROonline_News",
+        "tirjayanto",
+        "Supernetworks",
+        "JFPuget",
+        "mluebbecke",
+        "sburer",
+        "irshaadv",
+        "miketrick"
+      ],
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "name": "dirkvandenpoel",
+      "importance": 4,
+      "neighbours": [
+        "jusoneoftoomany",
+        "EUROonline_News",
+        "matthiasbaetens",
+        "TCaretteB"
+      ],
+      "tags": [
+        "proud",
+        "STEM",
+        "DataScience",
+        "orms"
+      ]
+    },
+    {
+      "name": "leanHDX",
+      "importance": 1,
+      "neighbours": [
+        "hagedornb"
+      ],
+      "tags": [
+        "lean",
+        "healthcare",
+        "orms"
+      ]
+    },
+    {
+      "name": "hagedornb",
+      "importance": 1,
+      "neighbours": [
+        "leanHDX"
+      ],
+      "tags": [
+        "lean",
+        "healthcare",
+        "orms"
+      ]
+    },
+    {
+      "name": "DaveRubal",
+      "importance": 2,
+      "neighbours": [
+        "DiegoKuonen",
+        "JFPuget"
+      ],
+      "tags": [
+        "analytics",
+        "DataScience",
+        "BigData",
+        "orms"
+      ]
+    },
+    {
+      "name": "richardadenman",
+      "importance": 1,
+      "neighbours": [
+        "constraints_cp"
+      ],
+      "tags": [
+        "CPAIOR2016",
+        "Constraints",
+        "copr",
+        "orms"
+      ]
+    },
+    {
+      "name": "Viral_B_Shah",
+      "importance": 3,
+      "neighbours": [
+        "iaindunning",
+        "strangeloop_stl",
+        "JuliaLanguage"
+      ],
+      "tags": [
+        "JuliaOpt",
+        "DSL",
+        "optimization",
+        "ORMS"
+      ]
+    },
+    {
+      "name": "iaindunning",
+      "importance": 1,
+      "neighbours": [
+        "Viral_B_Shah"
+      ],
+      "tags": [
+        "JuliaOpt",
+        "DSL",
+        "optimization",
+        "ORMS"
+      ]
+    },
+    {
+      "name": "strangeloop_stl",
+      "importance": 1,
+      "neighbours": [
+        "Viral_B_Shah"
+      ],
+      "tags": [
+        "JuliaOpt",
+        "DSL",
+        "optimization",
+        "ORMS"
+      ]
+    },
+    {
+      "name": "JuliaLanguage",
+      "importance": 1,
+      "neighbours": [
+        "Viral_B_Shah"
+      ],
+      "tags": [
+        "JuliaOpt",
+        "DSL",
+        "optimization",
+        "ORMS"
+      ]
+    },
+    {
+      "name": "mon_decastro",
+      "importance": 2,
+      "neighbours": [
+        "mluebbecke",
+        "felixoneberlin"
+      ],
+      "tags": [
+        "orms",
+        "math",
+        "orblog"
+      ]
+    },
+    {
+      "name": "tirjayanto",
+      "importance": 4,
+      "neighbours": [
+        "miketrick",
+        "GeoOptimization",
+        "JFPuget",
+        "PVanHentenryck"
+      ],
+      "tags": [
+        "orms",
+        "analytics"
+      ]
+    },
+    {
+      "name": "homeAIinfo",
+      "importance": 4,
+      "neighbours": [
+        "scianalytics",
+        "DrBDub",
+        "AlySamyMegahed",
+        "adam_m_mcelhinn"
+      ],
+      "tags": [
+        "informs2015",
+        "orms",
+        "datascience"
+      ]
+    },
+    {
+      "name": "scianalytics",
+      "importance": 4,
+      "neighbours": [
+        "homeAIinfo",
+        "DrBDub",
+        "AlySamyMegahed",
+        "adam_m_mcelhinn"
+      ],
+      "tags": [
+        "informs2015",
+        "orms",
+        "datascience"
+      ]
+    },
+    {
+      "name": "DrBDub",
+      "importance": 2,
+      "neighbours": [
+        "homeAIinfo",
+        "scianalytics"
+      ],
+      "tags": [
+        "informs2015",
+        "orms",
+        "datascience"
+      ]
+    },
+    {
+      "name": "AlySamyMegahed",
+      "importance": 2,
+      "neighbours": [
+        "homeAIinfo",
+        "scianalytics"
+      ],
+      "tags": [
+        "informs2015",
+        "orms",
+        "datascience"
+      ]
+    },
+    {
+      "name": "adam_m_mcelhinn",
+      "importance": 2,
+      "neighbours": [
+        "homeAIinfo",
+        "scianalytics"
+      ],
+      "tags": [
+        "informs2015",
+        "orms",
+        "datascience"
+      ]
+    },
+    {
+      "name": "ddoonie",
+      "importance": 1,
+      "neighbours": [
+        "thyunes"
+      ],
+      "tags": [
+        "orms",
+        "orjobs"
+      ]
+    },
+    {
+      "name": "IzabelaKomenda",
+      "importance": 6,
+      "neighbours": [
+        "tommonks1",
+        "drvinceknight",
+        "tjwatkins73",
+        "JulieVile1",
+        "SIMUL8Health",
+        "BrianMckeon"
+      ],
+      "tags": [
+        "ThisIsOR",
+        "ORMS"
+      ]
+    },
+    {
+      "name": "drvinceknight",
+      "importance": 6,
+      "neighbours": [
+        "IzabelaKomenda",
+        "tjwatkins73",
+        "JulieVile1",
+        "SIMUL8Health",
+        "BrianMckeon",
+        "tommonks1"
+      ],
+      "tags": [
+        "ThisIsOR",
+        "ORMS"
+      ]
+    },
+    {
+      "name": "tjwatkins73",
+      "importance": 3,
+      "neighbours": [
+        "tommonks1",
+        "IzabelaKomenda",
+        "drvinceknight"
+      ],
+      "tags": [
+        "ThisIsOR",
+        "ORMS"
+      ]
+    },
+    {
+      "name": "Simulation101",
+      "importance": 2,
+      "neighbours": [
+        "WIRED",
+        "TheRealFuture"
+      ],
+      "tags": [
+        "orms",
+        "thisisor"
+      ]
+    },
+    {
+      "name": "WIRED",
+      "importance": 1,
+      "neighbours": [
+        "Simulation101"
+      ],
+      "tags": [
+        "orms",
+        "thisisor"
+      ]
+    },
+    {
+      "name": "TheRealFuture",
+      "importance": 1,
+      "neighbours": [
+        "Simulation101"
+      ],
+      "tags": [
+        "orms",
+        "thisisor"
+      ]
+    },
+    {
+      "name": "JulieVile1",
+      "importance": 3,
+      "neighbours": [
+        "tommonks1",
+        "IzabelaKomenda",
+        "drvinceknight"
+      ],
+      "tags": [
+        "ThisIsOR",
+        "ORMS"
+      ]
+    },
+    {
+      "name": "SIMUL8Health",
+      "importance": 5,
+      "neighbours": [
+        "tommonks1",
+        "IzabelaKomenda",
+        "drvinceknight",
+        "SRachuba",
+        "PenCLAHRCOR"
+      ],
+      "tags": [
+        "ThisIsOR",
+        "ORMS",
+        "thisIsOR",
+        "thisisor",
+        "simulation",
+        "healthcareor"
+      ]
+    },
+    {
+      "name": "uoebusiness",
+      "importance": 1,
+      "neighbours": [
+        "Supernetworks"
+      ],
+      "tags": [
+        "Scotland",
+        "orms"
+      ]
+    },
+    {
+      "name": "apricoco",
+      "importance": 1,
+      "neighbours": [
+        "thyunes"
+      ],
+      "tags": [
+        "orms",
+        "orjobs"
+      ]
+    },
+    {
+      "name": "BrianMckeon",
+      "importance": 3,
+      "neighbours": [
+        "tommonks1",
+        "IzabelaKomenda",
+        "drvinceknight"
+      ],
+      "tags": [
+        "ThisIsOR",
+        "ORMS"
+      ]
+    },
+    {
+      "name": "dgimmig",
+      "importance": 1,
+      "neighbours": [
+        "JFPuget"
+      ],
+      "tags": [
+        "analytics",
+        "DataScience",
+        "BigData",
+        "orms"
+      ]
+    },
+    {
+      "name": "irshaadv",
+      "importance": 2,
+      "neighbours": [
+        "mluebbecke",
+        "GeoOptimization"
+      ],
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "name": "matthiasbaetens",
+      "importance": 1,
+      "neighbours": [
+        "dirkvandenpoel"
+      ],
+      "tags": [
+        "proud",
+        "STEM",
+        "DataScience",
+        "orms"
+      ]
+    },
+    {
+      "name": "CORS_President",
+      "importance": 4,
+      "neighbours": [
+        "INFORMS2015",
+        "miketrick",
+        "EUROonline_News",
+        "mluebbecke"
+      ],
+      "tags": [
+        "orms",
+        "analytics",
+        "informs2015",
+        "hr",
+        "ORMS",
+        "CORS2016"
+      ]
+    },
+    {
+      "name": "kunjee",
+      "importance": 1,
+      "neighbours": [
+        "natebrix"
+      ],
+      "tags": [
+        "SQL",
+        "Optimization",
+        "analytics",
+        "orms"
+      ]
+    },
+    {
+      "name": "jbante",
+      "importance": 1,
+      "neighbours": [
+        "natebrix"
+      ],
+      "tags": [
+        "SQL",
+        "Optimization",
+        "analytics",
+        "orms"
+      ]
+    },
+    {
+      "name": "vdiaz3",
+      "importance": 1,
+      "neighbours": [
+        "JFPuget"
+      ],
+      "tags": [
+        "analytics",
+        "BigData",
+        "DataScience",
+        "orms"
+      ]
+    },
+    {
+      "name": "gdigugli",
+      "importance": 1,
+      "neighbours": [
+        "JFPuget"
+      ],
+      "tags": [
+        "analytics",
+        "BigData",
+        "DataScience",
+        "orms"
+      ]
+    },
+    {
+      "name": "PVanHentenryck",
+      "importance": 3,
+      "neighbours": [
+        "tirjayanto",
+        "leandro_cc",
+        "JFPuget"
+      ],
+      "tags": [
+        "orms",
+        "analytics"
+      ]
+    },
+    {
+      "name": "mmonaci74",
+      "importance": 5,
+      "neighbours": [
+        "ILjubic",
+        "maleitner",
+        "MFischetti",
+        "aolmedon",
+        "mluebbecke"
+      ],
+      "tags": [
+        "orms",
+        "bigdata"
+      ]
+    },
+    {
+      "name": "maleitner",
+      "importance": 6,
+      "neighbours": [
+        "mmonaci74",
+        "ILjubic",
+        "MFischetti",
+        "aolmedon",
+        "mluebbecke",
+        "DJKrazyBen"
+      ],
+      "tags": [
+        "orms",
+        "bigdata",
+        "INFORMS",
+        "ORMS"
+      ]
+    },
+    {
+      "name": "leandro_cc",
+      "importance": 2,
+      "neighbours": [
+        "JFPuget",
+        "PVanHentenryck"
+      ],
+      "tags": [
+        "orms",
+        "analytics"
+      ]
+    },
+    {
+      "name": "localsolver",
+      "importance": 2,
+      "neighbours": [
+        "IBMmark",
+        "rdkugelvr"
+      ],
+      "tags": [
+        "optimization",
+        "orms",
+        "ibmoptimization"
+      ]
+    },
+    {
+      "name": "IBMmark",
+      "importance": 1,
+      "neighbours": [
+        "localsolver"
+      ],
+      "tags": [
+        "optimization",
+        "orms",
+        "ibmoptimization"
+      ]
+    },
+    {
+      "name": "rdkugelvr",
+      "importance": 1,
+      "neighbours": [
+        "localsolver"
+      ],
+      "tags": [
+        "optimization",
+        "orms",
+        "ibmoptimization"
+      ]
+    },
+    {
+      "name": "KDCOST",
+      "importance": 1,
+      "neighbours": [
+        "JFPuget"
+      ],
+      "tags": [
+        "analytics",
+        "BigData",
+        "DataScience",
+        "orms"
+      ]
+    },
+    {
+      "name": "aolmedon",
+      "importance": 4,
+      "neighbours": [
+        "ILjubic",
+        "maleitner",
+        "MFischetti",
+        "mmonaci74"
+      ],
+      "tags": [
+        "orms",
+        "bigdata"
+      ]
+    },
+    {
+      "name": "leejacobson_",
+      "importance": 1,
+      "neighbours": [
+        "s_neyshabouri"
+      ],
+      "tags": [
+        "ORMS",
+        "ThisIsOR"
+      ]
+    },
+    {
+      "name": "TCaretteB",
+      "importance": 1,
+      "neighbours": [
+        "dirkvandenpoel"
+      ],
+      "tags": [
+        "proud",
+        "STEM",
+        "DataScience",
+        "orms"
+      ]
+    },
+    {
+      "name": "lehighengineers",
+      "importance": 2,
+      "neighbours": [
+        "sertalpbilal",
+        "lehigh_ise"
+      ],
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "name": "sertalpbilal",
+      "importance": 2,
+      "neighbours": [
+        "lehighengineers",
+        "lehigh_ise"
+      ],
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "name": "lehigh_ise",
+      "importance": 2,
+      "neighbours": [
+        "lehighengineers",
+        "sertalpbilal"
+      ],
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "name": "SINTEF",
+      "importance": 4,
+      "neighbours": [
+        "MathDaily",
+        "l_mencarelli",
+        "tunnuz_",
+        "mluebbecke"
+      ],
+      "tags": [
+        "orms",
+        "math"
+      ]
+    },
+    {
+      "name": "ResearchNext",
+      "importance": 2,
+      "neighbours": [
+        "Supernetworks",
+        "IsenbergUMass"
+      ],
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "name": "mHubMw",
+      "importance": 1,
+      "neighbours": [
+        "erwagasore"
+      ],
+      "tags": [
+        "python",
+        "flask",
+        "django",
+        "orms"
+      ]
+    },
+    {
+      "name": "erwagasore",
+      "importance": 1,
+      "neighbours": [
+        "mHubMw"
+      ],
+      "tags": [
+        "python",
+        "flask",
+        "django",
+        "orms"
+      ]
+    },
+    {
+      "name": "ManonRaap",
+      "importance": 1,
+      "neighbours": [
+        "JFPuget"
+      ],
+      "tags": [
+        "analytics",
+        "BigData",
+        "DataScience",
+        "orms"
+      ]
+    },
+    {
+      "name": "BigDataTweetBot",
+      "importance": 1,
+      "neighbours": [
+        "OrtecConsulting"
+      ],
+      "tags": [
+        "supplychain",
+        "analytics",
+        "bigdata",
+        "ORMS"
+      ]
+    },
+    {
+      "name": "MISTAconf",
+      "importance": 1,
+      "neighbours": [
+        "mluebbecke"
+      ],
+      "tags": [
+        "slides",
+        "scheduling",
+        "math",
+        "orms"
+      ]
+    },
+    {
+      "name": "inform_software",
+      "importance": 3,
+      "neighbours": [
+        "s_neyshabouri",
+        "mcvelezg",
+        "lauramclay"
+      ],
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "name": "SC_Action_Blog",
+      "importance": 1,
+      "neighbours": [
+        "miketrick"
+      ],
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "name": "mcvelezg",
+      "importance": 2,
+      "neighbours": [
+        "lauramclay",
+        "inform_software"
+      ],
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "name": "FMcLeister",
+      "importance": 16,
+      "neighbours": [
+        "lauramclay",
+        "NASciences",
+        "EhsanKhoda",
+        "EUROonline_News",
+        "ProBonoEcon",
+        "CharityHourUK",
+        "parubin",
+        "NCVOvolunteers",
+        "AnalyticNetwork",
+        "SIAAssociation",
+        "TheORSociety",
+        "AlexSwallow",
+        "ReachSkills",
+        "CareerVolnteer",
+        "TheTonyO",
+        "faststreamuk"
+      ],
+      "tags": [
+        "orms",
+        "ThisIsOR",
+        "ProBonoOR",
+        "ORblog",
+        "ThisisOR",
+        "volunteer",
+        "orblog",
+        "thisisOR",
+        "GORS"
+      ]
+    },
+    {
+      "name": "NASciences",
+      "importance": 2,
+      "neighbours": [
+        "FMcLeister",
+        "lauramclay"
+      ],
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "name": "AFAPRCHAPTER",
+      "importance": 3,
+      "neighbours": [
+        "Supernetworks",
+        "IsenbergUMass",
+        "UMassLowell"
+      ],
+      "tags": [
+        "orms",
+        "gametheory",
+        "AFACyber15"
+      ]
+    },
+    {
+      "name": "UMassLowell",
+      "importance": 3,
+      "neighbours": [
+        "AFAPRCHAPTER",
+        "curtisrc",
+        "Supernetworks"
+      ],
+      "tags": [
+        "orms",
+        "gametheory",
+        "AFACyber15"
+      ]
+    },
+    {
+      "name": "EhsanKhoda",
+      "importance": 2,
+      "neighbours": [
+        "JFPuget",
+        "FMcLeister"
+      ],
+      "tags": [
+        "analytics",
+        "BigData",
+        "DataScience",
+        "orms",
+        "ThisIsOR"
+      ]
+    },
+    {
+      "name": "curtisrc",
+      "importance": 3,
+      "neighbours": [
+        "Supernetworks",
+        "IsenbergUMass",
+        "UMassLowell"
+      ],
+      "tags": [
+        "orms",
+        "gametheory",
+        "AFACyber15"
+      ]
+    },
+    {
+      "name": "DataVisualizati",
+      "importance": 2,
+      "neighbours": [
+        "DiegoKuonen",
+        "JFPuget"
+      ],
+      "tags": [
+        "analytics",
+        "DataScience",
+        "BigData",
+        "orms"
+      ]
+    },
+    {
+      "name": "IBMFranceLab",
+      "importance": 1,
+      "neighbours": [
+        "JFPuget"
+      ],
+      "tags": [
+        "analytics",
+        "BigData",
+        "DataScience",
+        "orms"
+      ]
+    },
+    {
+      "name": "ruth_kaufman",
+      "importance": 4,
+      "neighbours": [
+        "tommonks1",
+        "TheORSociety",
+        "TheTonyO",
+        "faststreamuk"
+      ],
+      "tags": [
+        "ORSW16",
+        "ThisisOR",
+        "ORMS",
+        "thisisOR",
+        "GORS"
+      ]
+    },
+    {
+      "name": "DJKrazyBen",
+      "importance": 1,
+      "neighbours": [
+        "maleitner"
+      ],
+      "tags": [
+        "INFORMS",
+        "ORMS"
+      ]
+    },
+    {
+      "name": "LM_Rousseau",
+      "importance": 1,
+      "neighbours": [
+        "JFPuget"
+      ],
+      "tags": [
+        "analytics",
+        "BigData",
+        "DataScience",
+        "orms"
+      ]
+    },
+    {
+      "name": "CJCoffrin",
+      "importance": 1,
+      "neighbours": [
+        "parubin"
+      ],
+      "tags": [
+        "orblog"
+      ]
+    },
+    {
+      "name": "parubin",
+      "importance": 6,
+      "neighbours": [
+        "CJCoffrin",
+        "Jasmina_Lazic",
+        "FMcLeister",
+        "agustinishmael",
+        "jjmirandab",
+        "JFPuget"
+      ],
+      "tags": [
+        "orblog"
+      ]
+    },
+    {
+      "name": "ProBonoEcon",
+      "importance": 2,
+      "neighbours": [
+        "EUROonline_News",
+        "FMcLeister"
+      ],
+      "tags": [
+        "ProBonoOR",
+        "ORblog",
+        "ThisisOR"
+      ]
+    },
+    {
+      "name": "CharityHourUK",
+      "importance": 1,
+      "neighbours": [
+        "FMcLeister"
+      ],
+      "tags": [
+        "ProBonoOR",
+        "ORblog",
+        "ThisisOR"
+      ]
+    },
+    {
+      "name": "NCVOvolunteers",
+      "importance": 1,
+      "neighbours": [
+        "FMcLeister"
+      ],
+      "tags": [
+        "ProBonoOR",
+        "ORblog",
+        "ThisisOR"
+      ]
+    },
+    {
+      "name": "AnalyticNetwork",
+      "importance": 1,
+      "neighbours": [
+        "FMcLeister"
+      ],
+      "tags": [
+        "ProBonoOR",
+        "ORblog",
+        "ThisisOR"
+      ]
+    },
+    {
+      "name": "SIAAssociation",
+      "importance": 1,
+      "neighbours": [
+        "FMcLeister"
+      ],
+      "tags": [
+        "ProBonoOR",
+        "ORblog",
+        "ThisisOR"
+      ]
+    },
+    {
+      "name": "AlexSwallow",
+      "importance": 1,
+      "neighbours": [
+        "FMcLeister"
+      ],
+      "tags": [
+        "ProBonoOR",
+        "ORblog",
+        "ThisisOR"
+      ]
+    },
+    {
+      "name": "ReachSkills",
+      "importance": 2,
+      "neighbours": [
+        "EUROonline_News",
+        "FMcLeister"
+      ],
+      "tags": [
+        "ProBonoOR",
+        "ORblog",
+        "ThisisOR"
+      ]
+    },
+    {
+      "name": "CareerVolnteer",
+      "importance": 1,
+      "neighbours": [
+        "FMcLeister"
+      ],
+      "tags": [
+        "ProBonoOR",
+        "ORblog",
+        "ThisisOR"
+      ]
+    },
+    {
+      "name": "SRachuba",
+      "importance": 2,
+      "neighbours": [
+        "SIMUL8Health",
+        "PenCLAHRCOR"
+      ],
+      "tags": [
+        "thisisor",
+        "simulation",
+        "healthcareor"
+      ]
+    },
+    {
+      "name": "PenCLAHRCOR",
+      "importance": 2,
+      "neighbours": [
+        "SIMUL8Health",
+        "SRachuba"
+      ],
+      "tags": [
+        "thisisor",
+        "simulation",
+        "healthcareor"
+      ]
+    },
+    {
+      "name": "TheTonyO",
+      "importance": 4,
+      "neighbours": [
+        "ruth_kaufman",
+        "johnwhittaker",
+        "TheORSociety",
+        "FMcLeister"
+      ],
+      "tags": [
+        "thisisOR",
+        "GORS"
+      ]
+    },
+    {
+      "name": "faststreamuk",
+      "importance": 4,
+      "neighbours": [
+        "ruth_kaufman",
+        "johnwhittaker",
+        "TheORSociety",
+        "FMcLeister"
+      ],
+      "tags": [
+        "thisisOR",
+        "GORS"
+      ]
+    },
+    {
+      "name": "johnwhittaker",
+      "importance": 3,
+      "neighbours": [
+        "TheTonyO",
+        "faststreamuk",
+        "TheORSociety"
+      ],
+      "tags": [
+        "thisisOR",
+        "GORS"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1,
+      "strength": 1,
+      "tags": [
+        "math",
+        "orms"
+      ]
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "strength": 1,
+      "tags": [
+        "math",
+        "orms"
+      ]
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "strength": 1,
+      "tags": [
+        "math",
+        "orms"
+      ]
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "strength": 4,
+      "tags": [
+        "math",
+        "orms"
+      ]
+    },
+    {
+      "source": 4,
+      "target": 1,
+      "strength": 1,
+      "tags": [
+        "math",
+        "orms"
+      ]
+    },
+    {
+      "source": 4,
+      "target": 2,
+      "strength": 1,
+      "tags": [
+        "math",
+        "orms"
+      ]
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "strength": 2,
+      "tags": [
+        "math",
+        "orms",
+        "bigdata"
+      ]
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "strength": 1,
+      "tags": [
+        "math",
+        "orms"
+      ]
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "strength": 1,
+      "tags": [
+        "SQL",
+        "orms"
+      ]
+    },
+    {
+      "source": 8,
+      "target": 7,
+      "strength": 2,
+      "tags": [
+        "SQL",
+        "orms",
+        "Optimization",
+        "analytics"
+      ]
+    },
+    {
+      "source": 9,
+      "target": 7,
+      "strength": 1,
+      "tags": [
+        "SQL",
+        "orms"
+      ]
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "strength": 2,
+      "tags": [
+        "math",
+        "orms"
+      ]
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "Throwback"
+      ]
+    },
+    {
+      "source": 10,
+      "target": 12,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "Throwback"
+      ]
+    },
+    {
+      "source": 1,
+      "target": 13,
+      "strength": 3,
+      "tags": [
+        "Analytics",
+        "orms",
+        "analytics"
+      ]
+    },
+    {
+      "source": 1,
+      "target": 14,
+      "strength": 1,
+      "tags": [
+        "Analytics",
+        "orms"
+      ]
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "strength": 1,
+      "tags": [
+        "Analytics",
+        "orms"
+      ]
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 15,
+      "target": 17,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 13,
+      "target": 18,
+      "strength": 3,
+      "tags": [
+        "orms",
+        "analytics",
+        "bestofthebest"
+      ]
+    },
+    {
+      "source": 13,
+      "target": 19,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 13,
+      "target": 20,
+      "strength": 6,
+      "tags": [
+        "informs2015",
+        "orms",
+        "analytics",
+        "hr"
+      ]
+    },
+    {
+      "source": 21,
+      "target": 18,
+      "strength": 5,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 21,
+      "target": 19,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 21,
+      "target": 20,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 21,
+      "target": 16,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 21,
+      "target": 17,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 21,
+      "target": 13,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 21,
+      "target": 23,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 21,
+      "target": 24,
+      "strength": 1,
+      "tags": [
+        "or2016de",
+        "orms"
+      ]
+    },
+    {
+      "source": 25,
+      "target": 26,
+      "strength": 1,
+      "tags": [
+        "ORMS"
+      ]
+    },
+    {
+      "source": 27,
+      "target": 28,
+      "strength": 1,
+      "tags": [
+        "ORMS"
+      ]
+    },
+    {
+      "source": 1,
+      "target": 29,
+      "strength": 3,
+      "tags": [
+        "orms",
+        "Aachen",
+        "math"
+      ]
+    },
+    {
+      "source": 1,
+      "target": 30,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "Aachen",
+        "math"
+      ]
+    },
+    {
+      "source": 1,
+      "target": 31,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "Aachen",
+        "math"
+      ]
+    },
+    {
+      "source": 29,
+      "target": 30,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "Aachen",
+        "math"
+      ]
+    },
+    {
+      "source": 29,
+      "target": 31,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "Aachen",
+        "math"
+      ]
+    },
+    {
+      "source": 32,
+      "target": 33,
+      "strength": 2,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 34,
+      "target": 35,
+      "strength": 1,
+      "tags": [
+        "OptaPlanner",
+        "orms"
+      ]
+    },
+    {
+      "source": 34,
+      "target": 36,
+      "strength": 1,
+      "tags": [
+        "OptaPlanner",
+        "orms"
+      ]
+    },
+    {
+      "source": 37,
+      "target": 38,
+      "strength": 1,
+      "tags": [
+        "IBM",
+        "Paris",
+        "DOCLOUD",
+        "CPLEX",
+        "ORMS"
+      ]
+    },
+    {
+      "source": 37,
+      "target": 39,
+      "strength": 1,
+      "tags": [
+        "IBM",
+        "Paris",
+        "DOCLOUD",
+        "CPLEX",
+        "ORMS"
+      ]
+    },
+    {
+      "source": 40,
+      "target": 35,
+      "strength": 1,
+      "tags": [
+        "OptaPlanner",
+        "orms"
+      ]
+    },
+    {
+      "source": 40,
+      "target": 36,
+      "strength": 1,
+      "tags": [
+        "OptaPlanner",
+        "orms"
+      ]
+    },
+    {
+      "source": 36,
+      "target": 35,
+      "strength": 2,
+      "tags": [
+        "OptaPlanner",
+        "orms"
+      ]
+    },
+    {
+      "source": 41,
+      "target": 42,
+      "strength": 1,
+      "tags": [
+        "DataScience",
+        "orms",
+        "BigData"
+      ]
+    },
+    {
+      "source": 41,
+      "target": 43,
+      "strength": 1,
+      "tags": [
+        "DataScience",
+        "orms",
+        "BigData"
+      ]
+    },
+    {
+      "source": 41,
+      "target": 44,
+      "strength": 1,
+      "tags": [
+        "DataScience",
+        "orms",
+        "BigData"
+      ]
+    },
+    {
+      "source": 41,
+      "target": 45,
+      "strength": 1,
+      "tags": [
+        "DataScience",
+        "orms",
+        "BigData"
+      ]
+    },
+    {
+      "source": 41,
+      "target": 46,
+      "strength": 2,
+      "tags": [
+        "DataScience",
+        "orms",
+        "BigData"
+      ]
+    },
+    {
+      "source": 41,
+      "target": 47,
+      "strength": 2,
+      "tags": [
+        "DataScience",
+        "orms",
+        "BigData"
+      ]
+    },
+    {
+      "source": 41,
+      "target": 48,
+      "strength": 2,
+      "tags": [
+        "DataScience",
+        "orms",
+        "BigData"
+      ]
+    },
+    {
+      "source": 41,
+      "target": 49,
+      "strength": 2,
+      "tags": [
+        "DataScience",
+        "orms",
+        "BigData"
+      ]
+    },
+    {
+      "source": 50,
+      "target": 1,
+      "strength": 2,
+      "tags": [
+        "orms",
+        "math",
+        "orblog"
+      ]
+    },
+    {
+      "source": 50,
+      "target": 51,
+      "strength": 2,
+      "tags": [
+        "orms",
+        "math",
+        "orblog"
+      ]
+    },
+    {
+      "source": 52,
+      "target": 53,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "math"
+      ]
+    },
+    {
+      "source": 52,
+      "target": 54,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "math"
+      ]
+    },
+    {
+      "source": 52,
+      "target": 55,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "math"
+      ]
+    },
+    {
+      "source": 56,
+      "target": 57,
+      "strength": 1,
+      "tags": [
+        "ORMS"
+      ]
+    },
+    {
+      "source": 58,
+      "target": 59,
+      "strength": 2,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 60,
+      "target": 57,
+      "strength": 2,
+      "tags": [
+        "ORMS",
+        "IBMoptimization"
+      ]
+    },
+    {
+      "source": 26,
+      "target": 37,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "analytics",
+        "python"
+      ]
+    },
+    {
+      "source": 16,
+      "target": 61,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 62,
+      "target": 57,
+      "strength": 1,
+      "tags": [
+        "ORMS"
+      ]
+    },
+    {
+      "source": 38,
+      "target": 39,
+      "strength": 1,
+      "tags": [
+        "IBM",
+        "Paris",
+        "DOCLOUD",
+        "CPLEX",
+        "ORMS"
+      ]
+    },
+    {
+      "source": 63,
+      "target": 64,
+      "strength": 1,
+      "tags": [
+        "copr",
+        "orms"
+      ]
+    },
+    {
+      "source": 63,
+      "target": 65,
+      "strength": 1,
+      "tags": [
+        "copr",
+        "orms"
+      ]
+    },
+    {
+      "source": 66,
+      "target": 64,
+      "strength": 1,
+      "tags": [
+        "copr",
+        "orms"
+      ]
+    },
+    {
+      "source": 66,
+      "target": 65,
+      "strength": 1,
+      "tags": [
+        "copr",
+        "orms"
+      ]
+    },
+    {
+      "source": 67,
+      "target": 68,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 69,
+      "target": 64,
+      "strength": 1,
+      "tags": [
+        "copr",
+        "orms"
+      ]
+    },
+    {
+      "source": 69,
+      "target": 65,
+      "strength": 1,
+      "tags": [
+        "copr",
+        "orms"
+      ]
+    },
+    {
+      "source": 70,
+      "target": 27,
+      "strength": 2,
+      "tags": [
+        "ORMS",
+        "supplychain",
+        "INFORMS2015"
+      ]
+    },
+    {
+      "source": 64,
+      "target": 65,
+      "strength": 1,
+      "tags": [
+        "copr",
+        "orms"
+      ]
+    },
+    {
+      "source": 18,
+      "target": 1,
+      "strength": 4,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 71,
+      "target": 16,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 71,
+      "target": 17,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 1,
+      "target": 16,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 1,
+      "target": 17,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 16,
+      "target": 17,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 72,
+      "target": 73,
+      "strength": 2,
+      "tags": [
+        "orms",
+        "ORMS"
+      ]
+    },
+    {
+      "source": 74,
+      "target": 1,
+      "strength": 2,
+      "tags": [
+        "orms",
+        "math",
+        "orblog"
+      ]
+    },
+    {
+      "source": 74,
+      "target": 51,
+      "strength": 2,
+      "tags": [
+        "orms",
+        "math",
+        "orblog"
+      ]
+    },
+    {
+      "source": 18,
+      "target": 20,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 10,
+      "target": 75,
+      "strength": 2,
+      "tags": [
+        "orms",
+        "INFORMS"
+      ]
+    },
+    {
+      "source": 76,
+      "target": 20,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 77,
+      "target": 18,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 77,
+      "target": 19,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 1,
+      "target": 20,
+      "strength": 4,
+      "tags": [
+        "orms",
+        "analytics"
+      ]
+    },
+    {
+      "source": 78,
+      "target": 79,
+      "strength": 1,
+      "tags": [
+        "oracle",
+        "ORMS",
+        "ORPM",
+        "RESA",
+        "OracleEBS"
+      ]
+    },
+    {
+      "source": 78,
+      "target": 80,
+      "strength": 1,
+      "tags": [
+        "oracle",
+        "ORMS",
+        "ORPM",
+        "RESA",
+        "OracleEBS"
+      ]
+    },
+    {
+      "source": 32,
+      "target": 73,
+      "strength": 3,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 81,
+      "target": 13,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "analytics",
+        "bestofthebest"
+      ]
+    },
+    {
+      "source": 82,
+      "target": 37,
+      "strength": 1,
+      "tags": [
+        "analytics",
+        "BigData",
+        "DataScience",
+        "orms"
+      ]
+    },
+    {
+      "source": 83,
+      "target": 84,
+      "strength": 6,
+      "tags": [
+        "simulation",
+        "orsw16",
+        "orms",
+        "thisIsOR",
+        "ORSW16",
+        "ThisIsOR"
+      ]
+    },
+    {
+      "source": 85,
+      "target": 1,
+      "strength": 2,
+      "tags": [
+        "math",
+        "orms",
+        "bigdata"
+      ]
+    },
+    {
+      "source": 86,
+      "target": 37,
+      "strength": 1,
+      "tags": [
+        "analytics",
+        "BigData",
+        "DataScience",
+        "orms"
+      ]
+    },
+    {
+      "source": 57,
+      "target": 13,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "analytics",
+        "bestofthebest"
+      ]
+    },
+    {
+      "source": 37,
+      "target": 10,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "UnitedAirlines"
+      ]
+    },
+    {
+      "source": 87,
+      "target": 20,
+      "strength": 1,
+      "tags": [
+        "informs2015",
+        "orms",
+        "analytics"
+      ]
+    },
+    {
+      "source": 1,
+      "target": 68,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 88,
+      "target": 18,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 88,
+      "target": 19,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 89,
+      "target": 1,
+      "strength": 1,
+      "tags": [
+        "transportation",
+        "orms"
+      ]
+    },
+    {
+      "source": 90,
+      "target": 10,
+      "strength": 1,
+      "tags": [
+        "chepssymposium",
+        "healthcare",
+        "orms"
+      ]
+    },
+    {
+      "source": 19,
+      "target": 18,
+      "strength": 2,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 77,
+      "target": 1,
+      "strength": 1,
+      "tags": [
+        "transportation",
+        "orms"
+      ]
+    },
+    {
+      "source": 91,
+      "target": 73,
+      "strength": 2,
+      "tags": [
+        "orms",
+        "orblog",
+        "fanduel",
+        "draftkings"
+      ]
+    },
+    {
+      "source": 91,
+      "target": 13,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 26,
+      "target": 73,
+      "strength": 2,
+      "tags": [
+        "ORMS",
+        "ThisIsOR"
+      ]
+    },
+    {
+      "source": 92,
+      "target": 72,
+      "strength": 1,
+      "tags": [
+        "ORMS"
+      ]
+    },
+    {
+      "source": 92,
+      "target": 73,
+      "strength": 1,
+      "tags": [
+        "ORMS"
+      ]
+    },
+    {
+      "source": 18,
+      "target": 73,
+      "strength": 3,
+      "tags": [
+        "orms",
+        "orblog",
+        "fanduel",
+        "draftkings",
+        "orjobs"
+      ]
+    },
+    {
+      "source": 93,
+      "target": 73,
+      "strength": 2,
+      "tags": [
+        "orms",
+        "orblog",
+        "fanduel",
+        "draftkings"
+      ]
+    },
+    {
+      "source": 25,
+      "target": 94,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 95,
+      "target": 96,
+      "strength": 6,
+      "tags": [
+        "Happyday",
+        "supplychain",
+        "supplier",
+        "orms",
+        "Scotland",
+        "orblog",
+        "gametheory",
+        "cybersecurity",
+        "AFAcyber15",
+        "AFACyber15"
+      ]
+    },
+    {
+      "source": 97,
+      "target": 94,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 37,
+      "target": 94,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 28,
+      "target": 1,
+      "strength": 2,
+      "tags": [
+        "math",
+        "orms",
+        "statistics",
+        "orblog"
+      ]
+    },
+    {
+      "source": 98,
+      "target": 99,
+      "strength": 1,
+      "tags": [
+        "analytics",
+        "DataScience",
+        "BigData",
+        "orms"
+      ]
+    },
+    {
+      "source": 98,
+      "target": 37,
+      "strength": 3,
+      "tags": [
+        "analytics",
+        "DataScience",
+        "BigData",
+        "orms"
+      ]
+    },
+    {
+      "source": 100,
+      "target": 99,
+      "strength": 1,
+      "tags": [
+        "analytics",
+        "DataScience",
+        "BigData",
+        "orms"
+      ]
+    },
+    {
+      "source": 100,
+      "target": 37,
+      "strength": 1,
+      "tags": [
+        "analytics",
+        "DataScience",
+        "BigData",
+        "orms"
+      ]
+    },
+    {
+      "source": 37,
+      "target": 99,
+      "strength": 1,
+      "tags": [
+        "analytics",
+        "DataScience",
+        "BigData",
+        "orms"
+      ]
+    },
+    {
+      "source": 71,
+      "target": 69,
+      "strength": 1,
+      "tags": [
+        "ORMS"
+      ]
+    },
+    {
+      "source": 26,
+      "target": 94,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 101,
+      "target": 13,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 95,
+      "target": 13,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 76,
+      "target": 18,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 76,
+      "target": 13,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 102,
+      "target": 13,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 13,
+      "target": 75,
+      "strength": 1,
+      "tags": [
+        "INFORMS",
+        "orms"
+      ]
+    },
+    {
+      "source": 91,
+      "target": 18,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 91,
+      "target": 103,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 91,
+      "target": 104,
+      "strength": 1,
+      "tags": [
+        "proud",
+        "STEM",
+        "DataScience",
+        "orms"
+      ]
+    },
+    {
+      "source": 91,
+      "target": 21,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 21,
+      "target": 104,
+      "strength": 1,
+      "tags": [
+        "proud",
+        "STEM",
+        "DataScience",
+        "orms"
+      ]
+    },
+    {
+      "source": 21,
+      "target": 27,
+      "strength": 1,
+      "tags": [
+        "INFORMS2015",
+        "ORMS"
+      ]
+    },
+    {
+      "source": 21,
+      "target": 103,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 21,
+      "target": 64,
+      "strength": 1,
+      "tags": [
+        "CPAIOR2016",
+        "Constraints",
+        "copr",
+        "orms"
+      ]
+    },
+    {
+      "source": 21,
+      "target": 84,
+      "strength": 3,
+      "tags": [
+        "simulation",
+        "orsw16",
+        "orms",
+        "thisIsOR",
+        "ORSW16",
+        "ThisIsOR"
+      ]
+    },
+    {
+      "source": 21,
+      "target": 83,
+      "strength": 4,
+      "tags": [
+        "simulation",
+        "orsw16",
+        "orms",
+        "thisIsOR",
+        "volunteer",
+        "ThisIsOR",
+        "ORSW16"
+      ]
+    },
+    {
+      "source": 105,
+      "target": 106,
+      "strength": 1,
+      "tags": [
+        "lean",
+        "healthcare",
+        "orms"
+      ]
+    },
+    {
+      "source": 107,
+      "target": 99,
+      "strength": 1,
+      "tags": [
+        "analytics",
+        "DataScience",
+        "BigData",
+        "orms"
+      ]
+    },
+    {
+      "source": 107,
+      "target": 37,
+      "strength": 1,
+      "tags": [
+        "analytics",
+        "DataScience",
+        "BigData",
+        "orms"
+      ]
+    },
+    {
+      "source": 108,
+      "target": 64,
+      "strength": 1,
+      "tags": [
+        "CPAIOR2016",
+        "Constraints",
+        "copr",
+        "orms"
+      ]
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "strength": 1,
+      "tags": [
+        "SQL",
+        "Optimization",
+        "analytics",
+        "orms"
+      ]
+    },
+    {
+      "source": 109,
+      "target": 110,
+      "strength": 1,
+      "tags": [
+        "JuliaOpt",
+        "DSL",
+        "optimization",
+        "ORMS"
+      ]
+    },
+    {
+      "source": 109,
+      "target": 111,
+      "strength": 1,
+      "tags": [
+        "JuliaOpt",
+        "DSL",
+        "optimization",
+        "ORMS"
+      ]
+    },
+    {
+      "source": 109,
+      "target": 112,
+      "strength": 1,
+      "tags": [
+        "JuliaOpt",
+        "DSL",
+        "optimization",
+        "ORMS"
+      ]
+    },
+    {
+      "source": 113,
+      "target": 1,
+      "strength": 2,
+      "tags": [
+        "orms",
+        "math",
+        "orblog"
+      ]
+    },
+    {
+      "source": 113,
+      "target": 51,
+      "strength": 2,
+      "tags": [
+        "orms",
+        "math",
+        "orblog"
+      ]
+    },
+    {
+      "source": 114,
+      "target": 18,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 114,
+      "target": 103,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 115,
+      "target": 116,
+      "strength": 1,
+      "tags": [
+        "informs2015",
+        "orms",
+        "datascience"
+      ]
+    },
+    {
+      "source": 115,
+      "target": 117,
+      "strength": 1,
+      "tags": [
+        "informs2015",
+        "orms",
+        "datascience"
+      ]
+    },
+    {
+      "source": 115,
+      "target": 118,
+      "strength": 1,
+      "tags": [
+        "informs2015",
+        "orms",
+        "datascience"
+      ]
+    },
+    {
+      "source": 115,
+      "target": 119,
+      "strength": 1,
+      "tags": [
+        "informs2015",
+        "orms",
+        "datascience"
+      ]
+    },
+    {
+      "source": 120,
+      "target": 73,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "orjobs"
+      ]
+    },
+    {
+      "source": 116,
+      "target": 117,
+      "strength": 1,
+      "tags": [
+        "informs2015",
+        "orms",
+        "datascience"
+      ]
+    },
+    {
+      "source": 116,
+      "target": 118,
+      "strength": 1,
+      "tags": [
+        "informs2015",
+        "orms",
+        "datascience"
+      ]
+    },
+    {
+      "source": 116,
+      "target": 119,
+      "strength": 1,
+      "tags": [
+        "informs2015",
+        "orms",
+        "datascience"
+      ]
+    },
+    {
+      "source": 121,
+      "target": 84,
+      "strength": 4,
+      "tags": [
+        "ThisIsOR",
+        "ORMS"
+      ]
+    },
+    {
+      "source": 121,
+      "target": 122,
+      "strength": 4,
+      "tags": [
+        "ThisIsOR",
+        "ORMS"
+      ]
+    },
+    {
+      "source": 88,
+      "target": 27,
+      "strength": 4,
+      "tags": [
+        "SupplyChain",
+        "webinar",
+        "orms",
+        "ORMS",
+        "AIMMS",
+        "Workshops",
+        "analytics",
+        "INFORMS2015"
+      ]
+    },
+    {
+      "source": 123,
+      "target": 84,
+      "strength": 2,
+      "tags": [
+        "ThisIsOR",
+        "ORMS"
+      ]
+    },
+    {
+      "source": 123,
+      "target": 121,
+      "strength": 2,
+      "tags": [
+        "ThisIsOR",
+        "ORMS"
+      ]
+    },
+    {
+      "source": 123,
+      "target": 122,
+      "strength": 2,
+      "tags": [
+        "ThisIsOR",
+        "ORMS"
+      ]
+    },
+    {
+      "source": 124,
+      "target": 125,
+      "strength": 2,
+      "tags": [
+        "orms",
+        "thisisor"
+      ]
+    },
+    {
+      "source": 124,
+      "target": 126,
+      "strength": 2,
+      "tags": [
+        "orms",
+        "thisisor"
+      ]
+    },
+    {
+      "source": 127,
+      "target": 84,
+      "strength": 2,
+      "tags": [
+        "ThisIsOR",
+        "ORMS"
+      ]
+    },
+    {
+      "source": 127,
+      "target": 121,
+      "strength": 2,
+      "tags": [
+        "ThisIsOR",
+        "ORMS"
+      ]
+    },
+    {
+      "source": 127,
+      "target": 122,
+      "strength": 2,
+      "tags": [
+        "ThisIsOR",
+        "ORMS"
+      ]
+    },
+    {
+      "source": 128,
+      "target": 84,
+      "strength": 3,
+      "tags": [
+        "ThisIsOR",
+        "ORMS",
+        "thisIsOR"
+      ]
+    },
+    {
+      "source": 128,
+      "target": 121,
+      "strength": 2,
+      "tags": [
+        "ThisIsOR",
+        "ORMS"
+      ]
+    },
+    {
+      "source": 128,
+      "target": 122,
+      "strength": 2,
+      "tags": [
+        "ThisIsOR",
+        "ORMS"
+      ]
+    },
+    {
+      "source": 95,
+      "target": 129,
+      "strength": 1,
+      "tags": [
+        "Scotland",
+        "orms"
+      ]
+    },
+    {
+      "source": 77,
+      "target": 73,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "orjobs"
+      ]
+    },
+    {
+      "source": 15,
+      "target": 73,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "orjobs"
+      ]
+    },
+    {
+      "source": 130,
+      "target": 73,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "orjobs"
+      ]
+    },
+    {
+      "source": 131,
+      "target": 84,
+      "strength": 2,
+      "tags": [
+        "ThisIsOR",
+        "ORMS"
+      ]
+    },
+    {
+      "source": 131,
+      "target": 121,
+      "strength": 2,
+      "tags": [
+        "ThisIsOR",
+        "ORMS"
+      ]
+    },
+    {
+      "source": 131,
+      "target": 122,
+      "strength": 2,
+      "tags": [
+        "ThisIsOR",
+        "ORMS"
+      ]
+    },
+    {
+      "source": 122,
+      "target": 84,
+      "strength": 4,
+      "tags": [
+        "ThisIsOR",
+        "ORMS"
+      ]
+    },
+    {
+      "source": 132,
+      "target": 37,
+      "strength": 1,
+      "tags": [
+        "analytics",
+        "DataScience",
+        "BigData",
+        "orms"
+      ]
+    },
+    {
+      "source": 95,
+      "target": 18,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 95,
+      "target": 103,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 37,
+      "target": 18,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 37,
+      "target": 103,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 1,
+      "target": 133,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 1,
+      "target": 103,
+      "strength": 2,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 134,
+      "target": 104,
+      "strength": 1,
+      "tags": [
+        "proud",
+        "STEM",
+        "DataScience",
+        "orms"
+      ]
+    },
+    {
+      "source": 135,
+      "target": 20,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "analytics",
+        "informs2015",
+        "hr"
+      ]
+    },
+    {
+      "source": 136,
+      "target": 7,
+      "strength": 1,
+      "tags": [
+        "SQL",
+        "Optimization",
+        "analytics",
+        "orms"
+      ]
+    },
+    {
+      "source": 137,
+      "target": 7,
+      "strength": 1,
+      "tags": [
+        "SQL",
+        "Optimization",
+        "analytics",
+        "orms"
+      ]
+    },
+    {
+      "source": 138,
+      "target": 37,
+      "strength": 1,
+      "tags": [
+        "analytics",
+        "BigData",
+        "DataScience",
+        "orms"
+      ]
+    },
+    {
+      "source": 139,
+      "target": 37,
+      "strength": 1,
+      "tags": [
+        "analytics",
+        "BigData",
+        "DataScience",
+        "orms"
+      ]
+    },
+    {
+      "source": 114,
+      "target": 37,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "analytics"
+      ]
+    },
+    {
+      "source": 114,
+      "target": 140,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "analytics"
+      ]
+    },
+    {
+      "source": 8,
+      "target": 18,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 8,
+      "target": 103,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 133,
+      "target": 103,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 18,
+      "target": 103,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 141,
+      "target": 85,
+      "strength": 2,
+      "tags": [
+        "orms",
+        "bigdata"
+      ]
+    },
+    {
+      "source": 141,
+      "target": 142,
+      "strength": 2,
+      "tags": [
+        "orms",
+        "bigdata"
+      ]
+    },
+    {
+      "source": 141,
+      "target": 5,
+      "strength": 2,
+      "tags": [
+        "orms",
+        "bigdata"
+      ]
+    },
+    {
+      "source": 143,
+      "target": 37,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "analytics"
+      ]
+    },
+    {
+      "source": 143,
+      "target": 140,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "analytics"
+      ]
+    },
+    {
+      "source": 144,
+      "target": 145,
+      "strength": 1,
+      "tags": [
+        "optimization",
+        "orms",
+        "ibmoptimization"
+      ]
+    },
+    {
+      "source": 144,
+      "target": 146,
+      "strength": 1,
+      "tags": [
+        "optimization",
+        "orms",
+        "ibmoptimization"
+      ]
+    },
+    {
+      "source": 142,
+      "target": 85,
+      "strength": 2,
+      "tags": [
+        "orms",
+        "bigdata"
+      ]
+    },
+    {
+      "source": 142,
+      "target": 5,
+      "strength": 2,
+      "tags": [
+        "orms",
+        "bigdata"
+      ]
+    },
+    {
+      "source": 147,
+      "target": 37,
+      "strength": 1,
+      "tags": [
+        "analytics",
+        "BigData",
+        "DataScience",
+        "orms"
+      ]
+    },
+    {
+      "source": 148,
+      "target": 85,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "bigdata"
+      ]
+    },
+    {
+      "source": 148,
+      "target": 142,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "bigdata"
+      ]
+    },
+    {
+      "source": 148,
+      "target": 5,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "bigdata"
+      ]
+    },
+    {
+      "source": 148,
+      "target": 141,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "bigdata"
+      ]
+    },
+    {
+      "source": 1,
+      "target": 142,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "bigdata"
+      ]
+    },
+    {
+      "source": 1,
+      "target": 141,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "bigdata"
+      ]
+    },
+    {
+      "source": 26,
+      "target": 149,
+      "strength": 2,
+      "tags": [
+        "ORMS",
+        "ThisIsOR"
+      ]
+    },
+    {
+      "source": 5,
+      "target": 85,
+      "strength": 2,
+      "tags": [
+        "orms",
+        "bigdata"
+      ]
+    },
+    {
+      "source": 150,
+      "target": 104,
+      "strength": 1,
+      "tags": [
+        "proud",
+        "STEM",
+        "DataScience",
+        "orms"
+      ]
+    },
+    {
+      "source": 151,
+      "target": 152,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 151,
+      "target": 153,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 3,
+      "target": 154,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "math"
+      ]
+    },
+    {
+      "source": 155,
+      "target": 95,
+      "strength": 2,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 155,
+      "target": 96,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 76,
+      "target": 1,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "math"
+      ]
+    },
+    {
+      "source": 76,
+      "target": 154,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "math"
+      ]
+    },
+    {
+      "source": 63,
+      "target": 1,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "math"
+      ]
+    },
+    {
+      "source": 63,
+      "target": 154,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "math"
+      ]
+    },
+    {
+      "source": 156,
+      "target": 157,
+      "strength": 1,
+      "tags": [
+        "python",
+        "flask",
+        "django",
+        "orms"
+      ]
+    },
+    {
+      "source": 18,
+      "target": 135,
+      "strength": 1,
+      "tags": [
+        "ORMS",
+        "CORS2016"
+      ]
+    },
+    {
+      "source": 158,
+      "target": 37,
+      "strength": 1,
+      "tags": [
+        "analytics",
+        "BigData",
+        "DataScience",
+        "orms"
+      ]
+    },
+    {
+      "source": 37,
+      "target": 140,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "analytics"
+      ]
+    },
+    {
+      "source": 21,
+      "target": 135,
+      "strength": 1,
+      "tags": [
+        "ORMS",
+        "CORS2016"
+      ]
+    },
+    {
+      "source": 159,
+      "target": 28,
+      "strength": 1,
+      "tags": [
+        "supplychain",
+        "analytics",
+        "bigdata",
+        "ORMS"
+      ]
+    },
+    {
+      "source": 1,
+      "target": 160,
+      "strength": 1,
+      "tags": [
+        "slides",
+        "scheduling",
+        "math",
+        "orms"
+      ]
+    },
+    {
+      "source": 1,
+      "target": 154,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "math"
+      ]
+    },
+    {
+      "source": 1,
+      "target": 135,
+      "strength": 1,
+      "tags": [
+        "ORMS"
+      ]
+    },
+    {
+      "source": 26,
+      "target": 72,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 26,
+      "target": 161,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 152,
+      "target": 153,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 1,
+      "target": 27,
+      "strength": 1,
+      "tags": [
+        "ORMS",
+        "bigdata",
+        "analytics"
+      ]
+    },
+    {
+      "source": 162,
+      "target": 18,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 163,
+      "target": 72,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 163,
+      "target": 161,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 72,
+      "target": 161,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 164,
+      "target": 72,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 164,
+      "target": 165,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 166,
+      "target": 95,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "gametheory",
+        "AFACyber15"
+      ]
+    },
+    {
+      "source": 166,
+      "target": 96,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "gametheory",
+        "AFACyber15"
+      ]
+    },
+    {
+      "source": 166,
+      "target": 167,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "gametheory",
+        "AFACyber15"
+      ]
+    },
+    {
+      "source": 72,
+      "target": 165,
+      "strength": 1,
+      "tags": [
+        "orms"
+      ]
+    },
+    {
+      "source": 168,
+      "target": 37,
+      "strength": 1,
+      "tags": [
+        "analytics",
+        "BigData",
+        "DataScience",
+        "orms"
+      ]
+    },
+    {
+      "source": 169,
+      "target": 95,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "gametheory",
+        "AFACyber15"
+      ]
+    },
+    {
+      "source": 169,
+      "target": 96,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "gametheory",
+        "AFACyber15"
+      ]
+    },
+    {
+      "source": 169,
+      "target": 167,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "gametheory",
+        "AFACyber15"
+      ]
+    },
+    {
+      "source": 95,
+      "target": 167,
+      "strength": 1,
+      "tags": [
+        "orms",
+        "gametheory",
+        "AFACyber15"
+      ]
+    },
+    {
+      "source": 170,
+      "target": 99,
+      "strength": 1,
+      "tags": [
+        "analytics",
+        "DataScience",
+        "BigData",
+        "orms"
+      ]
+    },
+    {
+      "source": 170,
+      "target": 37,
+      "strength": 1,
+      "tags": [
+        "analytics",
+        "DataScience",
+        "BigData",
+        "orms"
+      ]
+    },
+    {
+      "source": 164,
+      "target": 168,
+      "strength": 2,
+      "tags": [
+        "orms",
+        "ThisIsOR"
+      ]
+    },
+    {
+      "source": 171,
+      "target": 37,
+      "strength": 1,
+      "tags": [
+        "analytics",
+        "BigData",
+        "DataScience",
+        "orms"
+      ]
+    },
+    {
+      "source": 172,
+      "target": 84,
+      "strength": 2,
+      "tags": [
+        "ORSW16",
+        "ThisisOR",
+        "ORMS"
+      ]
+    },
+    {
+      "source": 172,
+      "target": 83,
+      "strength": 3,
+      "tags": [
+        "ORSW16",
+        "ThisisOR",
+        "ORMS",
+        "thisisOR",
+        "GORS"
+      ]
+    },
+    {
+      "source": 142,
+      "target": 173,
+      "strength": 1,
+      "tags": [
+        "INFORMS",
+        "ORMS"
+      ]
+    },
+    {
+      "source": 174,
+      "target": 37,
+      "strength": 1,
+      "tags": [
+        "analytics",
+        "BigData",
+        "DataScience",
+        "orms"
+      ]
+    },
+    {
+      "source": 16,
+      "target": 37,
+      "strength": 2,
+      "tags": [
+        "orms",
+        "analytics",
+        "BigData",
+        "DataScience"
+      ]
+    },
+    {
+      "source": 175,
+      "target": 176,
+      "strength": 1,
+      "tags": [
+        "orblog"
+      ]
+    },
+    {
+      "source": 0,
+      "target": 176,
+      "strength": 1,
+      "tags": [
+        "orblog"
+      ]
+    },
+    {
+      "source": 21,
+      "target": 164,
+      "strength": 5,
+      "tags": [
+        "ProBonoOR",
+        "ORblog",
+        "ThisisOR",
+        "volunteer",
+        "ThisIsOR"
+      ]
+    },
+    {
+      "source": 21,
+      "target": 177,
+      "strength": 2,
+      "tags": [
+        "ProBonoOR",
+        "ORblog",
+        "ThisisOR"
+      ]
+    },
+    {
+      "source": 177,
+      "target": 164,
+      "strength": 4,
+      "tags": [
+        "ProBonoOR",
+        "ORblog",
+        "ThisisOR"
+      ]
+    },
+    {
+      "source": 178,
+      "target": 164,
+      "strength": 4,
+      "tags": [
+        "ProBonoOR",
+        "ORblog",
+        "ThisisOR"
+      ]
+    },
+    {
+      "source": 164,
+      "target": 176,
+      "strength": 1,
+      "tags": [
+        "orblog"
+      ]
+    },
+    {
+      "source": 164,
+      "target": 179,
+      "strength": 2,
+      "tags": [
+        "ProBonoOR",
+        "ORblog",
+        "ThisisOR"
+      ]
+    },
+    {
+      "source": 69,
+      "target": 1,
+      "strength": 1,
+      "tags": [
+        "statistics",
+        "orblog"
+      ]
+    },
+    {
+      "source": 69,
+      "target": 28,
+      "strength": 1,
+      "tags": [
+        "statistics",
+        "orblog"
+      ]
+    },
+    {
+      "source": 164,
+      "target": 180,
+      "strength": 2,
+      "tags": [
+        "ProBonoOR",
+        "ORblog",
+        "ThisisOR"
+      ]
+    },
+    {
+      "source": 91,
+      "target": 1,
+      "strength": 1,
+      "tags": [
+        "statistics",
+        "orblog"
+      ]
+    },
+    {
+      "source": 91,
+      "target": 28,
+      "strength": 1,
+      "tags": [
+        "statistics",
+        "orblog"
+      ]
+    },
+    {
+      "source": 16,
+      "target": 176,
+      "strength": 1,
+      "tags": [
+        "orblog"
+      ]
+    },
+    {
+      "source": 61,
+      "target": 176,
+      "strength": 1,
+      "tags": [
+        "orblog"
+      ]
+    },
+    {
+      "source": 164,
+      "target": 181,
+      "strength": 2,
+      "tags": [
+        "ProBonoOR",
+        "ORblog",
+        "ThisisOR"
+      ]
+    },
+    {
+      "source": 83,
+      "target": 164,
+      "strength": 10,
+      "tags": [
+        "ProBonoOR",
+        "ORblog",
+        "ThisisOR",
+        "volunteer",
+        "ThisIsOR",
+        "thisisOR",
+        "GORS"
+      ]
+    },
+    {
+      "source": 182,
+      "target": 164,
+      "strength": 4,
+      "tags": [
+        "ProBonoOR",
+        "ORblog",
+        "ThisisOR"
+      ]
+    },
+    {
+      "source": 21,
+      "target": 183,
+      "strength": 2,
+      "tags": [
+        "ProBonoOR",
+        "ORblog",
+        "ThisisOR"
+      ]
+    },
+    {
+      "source": 183,
+      "target": 164,
+      "strength": 4,
+      "tags": [
+        "ProBonoOR",
+        "ORblog",
+        "ThisisOR"
+      ]
+    },
+    {
+      "source": 37,
+      "target": 176,
+      "strength": 1,
+      "tags": [
+        "orblog"
+      ]
+    },
+    {
+      "source": 164,
+      "target": 184,
+      "strength": 2,
+      "tags": [
+        "ProBonoOR",
+        "ORblog",
+        "ThisisOR"
+      ]
+    },
+    {
+      "source": 128,
+      "target": 185,
+      "strength": 1,
+      "tags": [
+        "thisisor",
+        "simulation",
+        "healthcareor"
+      ]
+    },
+    {
+      "source": 128,
+      "target": 186,
+      "strength": 1,
+      "tags": [
+        "thisisor",
+        "simulation",
+        "healthcareor"
+      ]
+    },
+    {
+      "source": 185,
+      "target": 186,
+      "strength": 1,
+      "tags": [
+        "thisisor",
+        "simulation",
+        "healthcareor"
+      ]
+    },
+    {
+      "source": 172,
+      "target": 187,
+      "strength": 1,
+      "tags": [
+        "thisisOR",
+        "GORS"
+      ]
+    },
+    {
+      "source": 172,
+      "target": 188,
+      "strength": 1,
+      "tags": [
+        "thisisOR",
+        "GORS"
+      ]
+    },
+    {
+      "source": 189,
+      "target": 187,
+      "strength": 1,
+      "tags": [
+        "thisisOR",
+        "GORS"
+      ]
+    },
+    {
+      "source": 189,
+      "target": 188,
+      "strength": 1,
+      "tags": [
+        "thisisOR",
+        "GORS"
+      ]
+    },
+    {
+      "source": 189,
+      "target": 83,
+      "strength": 1,
+      "tags": [
+        "thisisOR",
+        "GORS"
+      ]
+    },
+    {
+      "source": 83,
+      "target": 187,
+      "strength": 1,
+      "tags": [
+        "thisisOR",
+        "GORS"
+      ]
+    },
+    {
+      "source": 83,
+      "target": 188,
+      "strength": 1,
+      "tags": [
+        "thisisOR",
+        "GORS"
+      ]
+    },
+    {
+      "source": 164,
+      "target": 187,
+      "strength": 1,
+      "tags": [
+        "thisisOR",
+        "GORS"
+      ]
+    },
+    {
+      "source": 164,
+      "target": 188,
+      "strength": 1,
+      "tags": [
+        "thisisOR",
+        "GORS"
+      ]
+    }
+  ]
+}

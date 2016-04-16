@@ -1,0 +1,54 @@
+#chart-area {
+    padding: 1em;
+}
+
+svg {
+    border: 1px solid #DDDDDD;
+}
+
+svg circle {
+    cursor: pointer;
+}
+
+#info table {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    border: 1px solid #C93C00;
+    width: 300px;
+}
+
+#info table .lbl {
+    font-weight: bold;
+    color: #C93C00;
+    width: 100px;
+}
+
+#info table td {
+    padding: 0.5em;
+    vertical-align: top;
+}
+
+#info-column header {
+    margin-bottom: 1em;
+    border-bottom: 1px solid #DDDDDD;
+}
+
+#info-column a {
+    color: inherit;
+    border-bottom: 1px dotted #FFC200;
+}
+
+#info-column #commands {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    border-bottom: 1px solid #DDDDDD;
+}
+
+#info-column #all-users, #info-column #all-tags {
+    margin-bottom: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    border-bottom: 1px solid #DDDDDD;
+}
